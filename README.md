@@ -72,6 +72,9 @@ cd /path/to/your/script
 
 4. Run the script
 python run.py
+<img width="1267" height="743" alt="Screenshot 2025-07-22 173445" src="https://github.com/user-attachments/assets/1572d35f-7b9d-4b3f-9793-cda988309197" />
+
+
 
 
 
