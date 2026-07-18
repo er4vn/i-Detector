@@ -1,10 +1,13 @@
+<div align="center">
 
-# i-Detector
-Educational tool for simulating Instagram login and 2FA mechanisms. Designed for ethical hacking and cybersecurity training.
-### Dev: Er4vn | Telegram: @er4vnn
-<p align="center">
-<img src="https://github.com/user-attachments/assets/a9a805fe-d721-42cd-88da-bad816286416" alt="Cyber Instagram Logo" width="450"/>
-</p>
+<img width="1983" height="793" alt="ChatGPT Image Jul 19, 2026, 03_13_53 AM" src="https://github.com/user-attachments/assets/beb6f5ea-e88d-47ee-ab23-e8eb2505432a" />
+
+# i-Detector 
+
+### Educational tool for simulating Instagram login and 2FA mechanisms. Designed for ethical hacking and cybersecurity training.
+
+</div>
+
 ## 📘 About the Tool
 
 **i-Detector** is an educational tool that leverages social engineering techniques to simulate Instagram login and 2FA mechanisms.  
@@ -32,46 +35,133 @@ This script monitors the login activity on your fake page and displays the submi
 
 ---
 
-#### ✅ Requirements
-- Python 3 installed
-- Internet connection
-- Basic terminal knowledge
+## ✅ Requirements
+
+Before running the project, make sure you have:
+
+- Python **3.10** or newer
+- Git (optional, for cloning the repository)
+- Stable Internet Connection
 
 ---
 
-#### 🖥️ Run on Windows:
+# 🪟 Windows
 
-1. Open CMD or PowerShell
-2. Navigate to the script directory
-cd path\to\your\script
+### 1. Open Command Prompt or PowerShell
 
-3. Run the script
+Navigate to the project directory:
+
+```bash
+cd C:\path\to\i-Detector
+```
+
+Install dependencies (if required):
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the application:
+
+```bash
 python run.py
+```
 
 ---
 
-#### 🖥️ Run on Linux:
+# 🐧 Linux
 
-1. Open your terminal
-2. Navigate to the script directory
-cd /path/to/your/script
+Open your terminal and navigate to the project directory:
 
-3. Run the script
+```bash
+cd /path/to/i-Detector
+```
+
+Install dependencies:
+
+```bash
+pip3 install -r requirements.txt
+```
+
+Run:
+
+```bash
 python3 run.py
+```
 
 ---
 
-#### 📱 Run on Termux (Android):
+# 🍏 macOS
 
-1. Open Termux
-2. Install Python if not already installed
-pkg install python
+Open Terminal and navigate to the project directory:
 
-3. Navigate to your script directory
-cd /path/to/your/script
+```bash
+cd /path/to/i-Detector
+```
 
-4. Run the script
+Install dependencies:
+
+```bash
+pip3 install -r requirements.txt
+```
+
+Run:
+
+```bash
+python3 run.py
+```
+
+---
+
+# 📱 Termux (Android)
+
+Install Python:
+
+```bash
+pkg update && pkg upgrade
+
+pkg install python git
+```
+
+Navigate to the project directory:
+
+```bash
+cd /path/to/i-Detector
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run:
+
+```bash
 python run.py
+```
+
+---
+
+## 🚀 Verify Installation
+
+Check your Python version:
+
+```bash
+python --version
+```
+
+or
+
+```bash
+python3 --version
+```
+
+If everything is installed correctly, start the application:
+
+```bash
+python run.py
+```
 <img width="1267" height="743" alt="Screenshot 2025-07-22 173445" src="https://github.com/user-attachments/assets/1572d35f-7b9d-4b3f-9793-cda988309197" />
 
 
