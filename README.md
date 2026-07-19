@@ -1,14 +1,10 @@
+# i-Detector
+Educational tool for simulating Instagram login and 2FA mechanisms. Designed for ethical hacking and cybersecurity training.
 <div align="center">
 
 <img width="1983" height="793" alt="ChatGPT Image Jul 19, 2026, 03_13_53 AM" src="https://github.com/user-attachments/assets/beb6f5ea-e88d-47ee-ab23-e8eb2505432a" />
 
-# i-Detector 
-
-### Educational tool for simulating Instagram login and 2FA mechanisms. Designed for ethical hacking and cybersecurity training.
-
 </div>
-
-## 📘 About the Tool
 
 **i-Detector** is an educational tool that leverages social engineering techniques to simulate Instagram login and 2FA mechanisms.  
 This is the **initial version**, featuring a simple and practical design that will be updated over time.
