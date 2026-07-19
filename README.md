@@ -9,6 +9,22 @@ Educational tool for simulating Instagram login and 2FA mechanisms. Designed for
 **i-Detector** is an educational tool that leverages social engineering techniques to simulate Instagram login and 2FA mechanisms.  
 This is the **initial version**, featuring a simple and practical design that will be updated over time.
 
+# 🚀 Full Version Available
+
+> **This repository contains a simplified version.**
+>
+> ## ⭐ Main Project
+>
+> ### ➜ https://github.com/er4vn/Orbital
+>
+> The main repository includes:
+>
+> - Latest Features
+> - Continuous Updates
+> - Better Performance
+> - More Modules
+> - Full Documentation
+
 ### 📂 Tool Content
 
 Inside the `source code` folder, you will find all the necessary files required to run a **fake login page**.  
