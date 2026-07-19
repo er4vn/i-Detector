@@ -13,9 +13,9 @@ This is the **initial version**, featuring a simple and practical design that wi
 
 > **This repository contains a simplified version.**
 >
-> ## ⭐ Main Project
+> ### ⭐ Main Project
 >
-> ### ➜ https://github.com/er4vn/Orbital
+> #### ➜ https://github.com/er4vn/Orbital
 >
 > The main repository includes:
 >
